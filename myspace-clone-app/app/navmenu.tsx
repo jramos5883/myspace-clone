@@ -27,9 +27,6 @@ export default function NavMenu() {
         <li>
           <SignInButton />
         </li>
-        <li>
-          <SignOutButton />
-        </li>
       </ul>
     </nav>
   );
